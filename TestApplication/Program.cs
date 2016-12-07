@@ -9,8 +9,8 @@ namespace TestApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введіть імя");
-            Console.ReadLine();
+            Console.WriteLine("Hello word");
+        
         }
     }
 }

@@ -10,8 +10,15 @@ namespace TestApplication
         static void Main(string[] args)
         {
             Console.WriteLine("Введіть імя");
-            Console.ReadLine(); 
-        
+       string name = Console.ReadLine();
+            if (name == "volodya")
+            {
+                Console.WriteLine("sviy");
+            }
+            else
+            {
+                Console.WriteLine("Chuziy");
+            }
         }
     }
 }

@@ -15,10 +15,7 @@ namespace TestApplication
             {
                 Console.WriteLine("sviy");
             }
-            else
-            {
-                Console.WriteLine("Chuziy");
-            }
+          
         }
     }
 }

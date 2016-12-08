@@ -11,13 +11,6 @@ namespace TestApplication
         {
             Console.WriteLine("Введіть імя");
        string name = Console.ReadLine();
-            if (name == "volodya")
-            {
-                Console.WriteLine("sviy");
-            }
-            else
-            {
-                Console.WriteLine("Chuziy");
             }
         }
     }

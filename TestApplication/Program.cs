@@ -11,7 +11,7 @@ namespace TestApplication
         {
             Console.WriteLine("Введіть імя");
        string name = Console.ReadLine();
-            if (name == "volodya")
+            if (name == "volodya" && name=="Sasha")
             {
                 Console.WriteLine("sviy");
             }
